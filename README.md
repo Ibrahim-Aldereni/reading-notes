@@ -1,5 +1,5 @@
 # Welcome to Ibrahim Aldereni first Website 🔗
-> This Website is dedicated to show you the basics of Markup language and the GitHub pages.
+> This Website is dedicated to tell you more about ***growth mindset***.
 
 ## The Author: 👨
 
