@@ -7,7 +7,7 @@
 
 My name is Ibrahim Aldereni, I have a bachelor degree from Zarqa University, I am interested in programming and I have a lot of enthusiasm to learn new skills and ideas about web development.
 
-Click on the logo to see **GitHub portfolio** ▶️▶️▶️ [![git logo](https://github.com/Ibrahim-Aldereni/reading-notes/blob/main/git.png)](https://github.com/Ibrahim-Aldereni)
+Click on the logo to see **GitHub portfolio** ▶️▶️▶️ [![git logo](https://icons.iconarchive.com/icons/danleech/simple/48/github-icon.png)](https://github.com/Ibrahim-Aldereni)
 
 ## _growth mindset_: 🧠
 
@@ -21,4 +21,3 @@ growth mindset is basiccaly means "keep up, dp not stop" do not depend only on t
 - shut down all the distraction (facebook, youtube videos, games) and focus.
 - forget about snoozing.
 
-### 
