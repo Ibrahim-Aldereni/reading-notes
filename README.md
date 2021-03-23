@@ -13,7 +13,7 @@ Click on the logo to see **GitHub portfolio** ▶️▶️▶️ [![git logo](ht
 
 ![mindset](https://tofasakademi.com/wp-content/uploads/2019/06/growth-mindset3.png)
 
-growth mindset is basiccaly means "keep up, dp not stop" do not depend only on the talent or the intelligence of the person, it's actually can be achevied through hard work and learning from your faults.
+growth mindset is basiccaly means "keep up, don't stop" do not depend only on the talent or the intelligence of the person, it's actually can be achevied through hard work and learning from your faults.
 
 ### _To stay in the growth mindset zone_: 💪
 - Failure is normal during your learning journey.
