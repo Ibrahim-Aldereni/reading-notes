@@ -21,3 +21,4 @@ growth mindset is basiccaly means "keep up, don't stop" do not depend only on th
 - shut down all the distraction (facebook, youtube videos, games) and focus.
 - forget about snoozing.
 
+## this is added locally
